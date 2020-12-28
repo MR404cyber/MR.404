@@ -8,6 +8,35 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 white='\e[1;37m'
 yellow='\e[1;33m'
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+mer='\033[41;97m' #Tepi
+R='\x1b[1;31m'
+G='\x1b[1;32m'
+B='\x1b[1;34m'
+Y='\x1b[1;33m'
+C='\x1b[1;36m'
+D='\x1b[0m'
+endc='\E[0m'
+enda='\033[0m'
+figlet -f pagga "Login Dulu" |lolcat -a -d 5
+echo $me"╔══════════╗"
+read -p "║ Username :" lu
+echo $pu"║"
+read -p "║ Password :" tod
+echo $pu"╚══════════╝"
+
+if [ $lu = "MR.404" ]|[ $tod = "HACKER" ]
+then
+echo $cy"Login Sukses"
+echo $me"Salah PENJO!!!"
+sleep 3
+xdg-open 'https://wa.me/6282331072836/?text=Assalamualaikum+Apa+User+Sama+PassNya+Kak'
 echo "\033[1;31m ┏━╮╭━┓ ╭━━━━━━╮\033[31;0m●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[91m ┃┏┗┛┓┃╭┫\033[92mRAIHAN\033[91m┃ \033[1;34m╔╦╗┌─┐┬─┐┬┌─  \033[92m╦═╗╦ ╦ ╗  ╔═╗\033[1;33m╔═╗
 \033[91m ╰┓▋▋┏╯╯╰━━━━━━╯  \033[1;34m║║├─┤├┬┘├┴┐  \033[92m╠═╝║ ║ ║  ╚═╗\033[1;33m╠═╣
