@@ -36,7 +36,6 @@ then
 echo $cy"Login Sukses"
 echo $me"Salah PENJO!!!"
 sleep 3
-xdg-open 'https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+Kak'
 xdg-open 'https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q"
 fi
 echo "\033[1;31m ┏━╮╭━┓ ╭━━━━━━╮\033[31;0m●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●
