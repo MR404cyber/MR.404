@@ -37,7 +37,8 @@ echo $cy"Login Sukses"
 echo $me"chat auothor dulu!!!"
 sleep 3
 xdg-open 'https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+MR.404'
-fi
+termux-open 'https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q'
+fi:
 echo "\033[1;31m ┏━╮╭━┓ ╭━━━━━━╮\033[31;0m●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[91m ┃┏┗┛┓┃╭┫\033[92mRAIHAN\033[91m┃ \033[1;34m╔╦╗┌─┐┬─┐┬┌─  \033[92m╦═╗╦ ╦ ╗  ╔═╗\033[1;33m╔═╗
 \033[91m ╰┓▋▋┏╯╯╰━━━━━━╯  \033[1;34m║║├─┤├┬┘├┴┐  \033[92m╠═╝║ ║ ║  ╚═╗\033[1;33m╠═╣
